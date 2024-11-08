@@ -79,6 +79,12 @@ bip122:12a765e31ffd4059bada1e25190f6e98
 
 # Feathercoin (Litecoin fork)
 bip122:fdbe99b90c90bae7505796461471d89a
+
+# Dash mainnet
+bip122:00000ffd590b1485b3caadc19b22e6379
+
+# Dash testnet
+bip122:00000bafbc94add76cb75e2ec9289483
 ```
 
 ## Links
